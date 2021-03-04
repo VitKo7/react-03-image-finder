@@ -12,5 +12,3 @@ export const fetchPictures = (query = 'universe', page = '1') => {
 };
 
 //   let url = `https://pixabay.com/api/?image_type=photo&orientation=horizontal&q=roses&per_page=12&key=20181043-63559380747ebc8efe1373c68&page=1`;
-
-// axios.defaults.headers.common['Authorization'] = 'Bearer 20181043-63559380747ebc8efe1373c68';
