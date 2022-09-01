@@ -1,5 +1,5 @@
-# goit-react-hw-03-image-finder
+# react-03-image-finder
 
-Module 3. Life Cycle. REST API
+## 3. Life Cycle. REST API
 
 https://vitko7.github.io/goit-react-hw-03-image-finder/
